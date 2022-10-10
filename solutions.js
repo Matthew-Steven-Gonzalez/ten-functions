@@ -1,5 +1,7 @@
 "use strict";
 
+(function (){
+
 /**
  * Write your solutions here.
  *
@@ -103,7 +105,8 @@ function and( factor_1 , factor_2){
 
 //10 concat (complete)
 
-function concat ( factor_1 , factor_2 ){
+function concat ( factor_1 , factor_2 ) {
     return (factor_1.toString()) + (factor_2.toString());
 
 }
+})();
