@@ -56,7 +56,7 @@ function addOne( input ) {
 
 }
 
-//5 isEven
+//5 isEven (complete)
 
 function isEven(number) {
     if ( number === false){
